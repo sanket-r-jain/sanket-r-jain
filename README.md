@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket-r-jain&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-r-jain" /> </p>
 
-- 🌱 I’m currently learning **backend development [Node.js] [Express.js]**
-
 - 🤝 I’m looking for a **full stack web developer role.**
+
+- 🌱 I’m currently working with MERN stack - HTML5, CSS3, Javascript, React.js, Node.js, Express.js, MongoDB, MySQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
