@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for a **full stack web developer role.**
 
-- 🌱 I’m currently working with MERN stack - **HTML5, CSS3, SASS, Javascript, React.js, Node.js, Express.js, MongoDB, MySQL, PostgreSQL.**
+- 🌱 I’m currently working with MERN stack & Java Spring Boot + Vue.js - **HTML5, CSS3, SASS, Javascript, Java, React.js, Vue.js, Node.js, Express.js, Spring Boot, MongoDB, MySQL, PostgreSQL.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
